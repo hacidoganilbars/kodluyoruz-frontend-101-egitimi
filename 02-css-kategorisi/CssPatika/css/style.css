@@ -1,0 +1,27 @@
+h1 {
+    font-size: 40px;
+    color:red;
+}
+h2 {
+    font-size: 30px;
+    color: purple;
+}
+h3 {
+    font-size: 24px;
+    color:gold;
+}
+p{
+    font-size: 20px;
+}
+.center-header, .center-section{
+    text-align: center;
+}
+ul, ol {
+    list-style-position: inside;
+}
+a {
+    font-size:20px;
+}
+#urunList{
+    font-size: 20px;
+}

@@ -1,0 +1,65 @@
+p {
+    font-size: 24px;
+}
+
+input {
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+    font-size: 24px;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 351px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#explanation {
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.bg-second-container {
+    padding: 0 600px 0;
+    background-color: #EEEEEE;
+}
+
+#inpt {
+    width: 351px;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.bg-my {
+    width: 20%;
+    height: 120px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 0%;
+    padding-bottom: 5%;
+    margin-top: 0.2%;
+    margin-right: 0.1%;
+    float: left;
+}
+
+.first-color {
+    background-color: #7EE5DA;
+}
+
+.second-color {
+    background-color: #70CCC2;
+}
+
+.third-color {
+    background-color: #62B3AA;
+}

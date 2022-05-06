@@ -1,0 +1,19 @@
+.bg-color-nav {
+    background-color:rgba(255,255,255,1);
+}
+
+.height-nav{
+    height: 54px;
+}
+
+.logo-ml{
+    margin-left: 192px;
+}
+
+.bg-card-footer {
+    background-color:white;
+}
+
+.bg-card-header{
+    background-color: white;
+}
